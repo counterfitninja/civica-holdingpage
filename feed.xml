@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Civica Holding Page</title>
+    <link href="https://civica-ems.co.uk/feed.xml" rel="self" />
+    <link href="https://civica-ems.co.uk" />
+    <updated>2024-04-04T14:51:01+01:00</updated>
+    <author>
+        <name>Dave</name>
+    </author>
+    <id>https://civica-ems.co.uk</id>
+
+    <entry>
+        <title>CIVICA Holding page</title>
+        <author>
+            <name>Dave</name>
+        </author>
+        <link href="https://civica-ems.co.uk/civica-holding-page.html"/>
+        <id>https://civica-ems.co.uk/civica-holding-page.html</id>
+
+        <updated>2024-04-04T14:48:09+01:00</updated>
+            <summary>
+                <![CDATA[
+                    This is holiding page for Civica Domains. If you have any issues please contact us at the following: Support | Civica
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image align-center"><img loading="lazy"  src="https://civica-ems.co.uk/media/posts/1/civica_logo_desktop.svg" alt="" width="170" height="36"></figure>
+<p>This is holiding page for Civica Domains. If you have any issues please contact us at the following:</p>
+<p><a href="https://www.civica.com/en-gb/about-us/support/">Support | Civica</a></p>
+            ]]>
+        </content>
+    </entry>
+</feed>

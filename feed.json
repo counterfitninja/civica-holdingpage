@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Civica Holding Page",
+    "description": "",
+    "home_page_url": "https://civica-ems.co.uk",
+    "feed_url": "https://civica-ems.co.uk/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Dave"
+    },
+    "items": [
+        {
+            "id": "https://civica-ems.co.uk/civica-holding-page.html",
+            "url": "https://civica-ems.co.uk/civica-holding-page.html",
+            "title": "CIVICA Holding page",
+            "summary": "This is holiding page for Civica Domains. If you have any issues please contact us at the following: Support | Civica",
+            "content_html": "<figure class=\"post__image align-center\"><img loading=\"lazy\"  src=\"https://civica-ems.co.uk/media/posts/1/civica_logo_desktop.svg\" alt=\"\" width=\"170\" height=\"36\"></figure>\n<p>This is holiding page for Civica Domains. If you have any issues please contact us at the following:</p>\n<p><a href=\"https://www.civica.com/en-gb/about-us/support/\">Support | Civica</a></p>",
+            "author": {
+                "name": "Dave"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-04-04T14:48:09+01:00",
+            "date_modified": "2024-04-04T14:51:01+01:00"
+        }
+    ]
+}
